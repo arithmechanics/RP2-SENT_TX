@@ -2,6 +2,8 @@
 SENT Protocol Transmitter using Raspberry Pi Pico with PIO on MicroPython.
 Written by Dmitriy Levchenkov (arithmechanics.com), 2021
 
+*I am not a MicroPython guru. Any suggestions to restructure or improve the code are welcome. Always check signal timing with an oscilloscope or logic analyzer*
+
 # Installation
 Install MicroPython on your RP2
 Upload script to RP2:
